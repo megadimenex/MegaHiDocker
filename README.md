@@ -1,0 +1,2 @@
+# MegaHiDocker
+This project is exploit for some docker containers with similar to vulnerability code: CVE-2020-35191
