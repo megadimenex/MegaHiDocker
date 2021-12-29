@@ -1,4 +1,4 @@
-This project is exploit for some docker containers with vulnerability code: CVE-2020-35191
+This project is exploit for some docker containers with # similar to vulnerability code: CVE-2020-35191
 
 # ===>Important:
 # Exploit Title: Docker - Shadow File - Broken Authentication 
